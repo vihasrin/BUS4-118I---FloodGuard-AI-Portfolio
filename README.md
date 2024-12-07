@@ -7,5 +7,11 @@ FloodGuardAI was designed to help communities prepare for and respond to floods 
 [![Group Photo](https://github.com/harshilp0103/picture-holder/blob/main/Group%20Photo.png)](https://www.youtube.com/watch?v=wDSLVaIFUTQ)
 ## Ethical Design
 FloodGuardAI was designed with strong ethical principles to ensure user trust and safety. Privacy was prioritized by collecting minimal data, ensuring that users could access features without compromising personal information. The data used was sourced accurately from trusted organizations like Valley Water, ensuring reliable and credible outputs. Generative AI was used responsibly and minimally, focusing only on essential features to avoid unnecessary complexities or risks. Additionally, the platform provided users with simple, clear options to access practical safety tips, ensuring ease of use and empowering individuals to take control of their flood preparedness efforts.
-## Why FloodGuard AI
+## Why FloodGuard AI?
 FloodGuardAI was created to empower individuals and communities with tools to better prepare for and respond to floods. It provides practical safety tips through curated website links, helping users safeguard themselves and their assets. A detailed map highlights high risk flood areas in San Jose, offering critical information for planning and awareness. Real time flood reporting enables users to share updates directly, while user-contributed flood images add valuable insights into current conditions. These features work together to deliver timely and actionable information, making FloodGuardAI a reliable companion for managing flood risks effectively.
+## Interface
+<img width="806" alt="Screen Shot 2024-12-07 at 3 35 41 PM" src="https://github.com/user-attachments/assets/19aa2c66-70f1-42cb-8235-a88e20135cf4">
+<img width="754" alt="Screen Shot 2024-12-07 at 3 35 54 PM" src="https://github.com/user-attachments/assets/210790ce-b26d-4dff-a9b4-fdf005d3e6d6">
+<img width="750" alt="Screen Shot 2024-12-07 at 3 36 02 PM" src="https://github.com/user-attachments/assets/2d90babc-42ea-4dff-a95f-46a369827b86">
+
+
