@@ -21,7 +21,7 @@ st.success('Your flood report has been successfully added!')
 
 
 # Set up OpenCage Geocoder API
-key = '469906be508849a68838fbcb10c31ce0'  # Replace with your OpenCage API key
+key = 'API Key Here'  # Replace with your OpenCage API key
 geocoder = OpenCageGeocode(key)
 
 # Function to read existing flood data from CSV
