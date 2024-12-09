@@ -19,5 +19,5 @@ FloodGuardAI was created to empower individuals and communities with tools to be
 <img width="873" alt="Screen Shot 2024-12-07 at 3 45 06 PM" src="https://github.com/user-attachments/assets/a3b96606-42ec-4386-8a83-36146609bc5c">
 This is used to store all the data related to the Community Flood Map.
 
-*This text was refined using ChatGPT*
+*This GitHub portfolio was generated with the help of ChatGPT. I used ChatGPT to refine my project description for FloodGuardAI, including explaining key features like the website data extractor (Project Summary) and the real time flood map (Why FloodGuard AI?). ChatGPT also assisted in crafting sections like the Ethical Design, where I outlined the platform's privacy and data sourcing principles. The tool was referenced throughout to improve clarity and overall presentation of the content.*
 
